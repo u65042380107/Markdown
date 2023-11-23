@@ -1,4 +1,4 @@
 # Natthaphong Tembang
-**Benz**
-*benz*
-***BENZ***
+**Benz**.
+*benz*.
+***BENZ***.
